@@ -19,7 +19,7 @@ I am currently seeking **Internship or Co-op opportunities**.
 * **[Kind Care Official Site](https://thekindcare.ca/)**: A live, fully responsive platform engineered to improve digital accessibility and user experience.
 * **[Personal Portfolio](https://rafaeljimenez.netlify.app/)**: A showcase of my development journey, technical skills, and software projects.
 
-
+---
 **Focus:** Writing clean, scalable code that actually solves problems.
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/rafael-jimenez5) 
