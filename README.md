@@ -9,7 +9,7 @@ I am currently seeking **Internship or Co-op opportunities**.
 
 * **Systems & Support:** Balancing my studies with a technical role at **Staples**, resolving hardware and software inquiries and providing clear technical solutions.
 
-* * **Bilingual Collaboration:** Fluent in **English and Spanish**, with a focus on driving projects toward the finish line in fast-paced team environments.
+* **Bilingual Collaboration:** Fluent in **English and Spanish**, with a focus on driving projects toward the finish line in fast-paced team environments.
 
 ### Technical Toolkit
 * **Languages:** Java, Python, JavaScript, HTML, CSS, PHP, SQL (PostgreSQL, SQLite).  
