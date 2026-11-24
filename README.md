@@ -1,6 +1,6 @@
 # Hey, I'm Rafael 
 
-I’m a **Computer Information Systems student** at Mount Royal University and a **Full-Stack Developer** focused on building high-performance, data-driven applications. I thrive at the intersection of complex backend logic and user experience.
+I’m a **Computer Information Systems student** at Mount Royal University and a **Full-Stack Software Engineer** focused on building high-performance, data-driven applications. I thrive at the intersection of complex backend logic and user experience.
 
 ### What I’m Working On
 * **Freelance Web Development:** I designed and launched a fully responsive platform for **Kind Care**, where I manage the entire technical stack, from architecting front-end logic to backend optimization, ensuring seamless deployments, maximum site speed, and consistent system reliability.
