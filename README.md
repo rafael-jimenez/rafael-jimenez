@@ -14,7 +14,7 @@ I’m a fourth-year Computer Information Systems student at Mount Royal Universi
 
 #### Featured Work
 - **[Kind Care Official Site](https://thekindcare.ca/):** A live, fully responsive platform engineered to improve digital accessibility and user experience.
-- **[Personal Portfolio](https://rafaeljimenez.netlify.app/):** A showcase of my development journey, technical skills, and full-stack software projects.
+- **[Personal Portfolio](https://rafaeljimenez.netlify.app/):** (Work in progress) A showcase of my development journey, technical skills, and full-stack software projects.
 - **Pod (Student Study Group Web App):** Collaborative platform for university students to organize study pods, manage schedules, and track study streaks using Node.js, Express, and MySQL.
 - **Calgary Driving School Portal:** Internal admin web portal backed by a Neon PostgreSQL cloud database with stored procedures, triggers, and automated business reports.
 
